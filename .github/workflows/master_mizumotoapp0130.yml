@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'mizumotoapp0130'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE67D98DE2274D19B58389904E1334C2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_19F07034D62544349795FC096FC167E3 }}
           package: .
